@@ -12,7 +12,7 @@
 
 7.True or False? A master workbook can be edited to add new sheets or columns.
 
-8.If you want to apply function where you can apply that ?
+8.If you want to apply function where you can apply that ?  jjfjgfjkfgjkfkjdfkjdfkj
 
 9.How you can find supported data type in worksheet ?
 
