@@ -1,0 +1,19 @@
+1.What is BigSheets? 
+
+2.Bigsheet gives business users easily analyze BigData with zero programming.(True /False).
+
+3.True or False? BigSheets executes work on a simulated  environment of sample data .
+
+4.True or False? Data in a worksheet is automatically updated when the source data changes.
+
+5. What is the purpose of BigSheets readers?
+
+6.What allows you to find out if a workbook has a parent?
+
+7.True or False? A master workbook can be edited to add new sheets or columns.
+
+8.If you want to apply function where you can apply that ?
+
+9.How you can find supported data type in worksheet ?
+
+10.write one difference between union and joining.
