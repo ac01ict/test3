@@ -14,6 +14,6 @@
 
 8.If you want to apply function where you can apply that ?
 
-9.How you can find supported data type in worksheet ?
+9.How you can find supported data type in worksheet ? hghhghg
 
 10.write one difference between union and joining.
